@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkanaC
 - 👀 I’m interested in ... story books and Vector designs
 - 🌱 I’m currently learning ... Computer Science Engineering
-- 💞️ I’m looking to collaborate ... on DecHack, a Pre Hackathon  
+- 💞️ I’m looking to collaborate ...   
 - 📫 How to reach me ... twitter - @ItsAnkana, instagram - stellar.ankana
 
 <!---
