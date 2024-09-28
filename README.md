@@ -126,3 +126,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkanaC)](https://git.io/streak-stats)
+
+<br/>
+
