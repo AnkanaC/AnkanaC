@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnkanaC
+<!--- 👋 Hi, I’m @AnkanaC
 - 👀 I’m interested in ... Creating Solutions, one line of code at a time.
 - 💞️ I love to code in ... C++, Dart, Python, HTML, CSS, JavaScript, MySQL, PostgresSQL
 - 🌱 I’m currently learning ... Computer Science Engineering
@@ -10,7 +10,7 @@ AnkanaC/AnkanaC is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi , I'm Ankana Chakraborty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!---<h1 align="center">Hi , I'm Ankana Chakraborty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://g.dev/ankana"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;Flutter+Developer;Android+Enthusiast;Certified+Python+Developer+From+GeorgeTown+University;C++%20|%20C%20|%20Dart%20|%20MySQL%20|%20Python%20;;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -130,5 +130,101 @@ You can click the Preview link to take a look at your changes.
 	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnkanaC)](https://git.io/streak-stats)
 </p>
 
-<br/>
+<br/>--->
+
+# 👋 Hey, I'm Ankana Chakraborty
+
+> *Engineer @ Microsoft · IEEE-Published Researcher · Hackathon Champion · 700+ LeetCode Problems Solved*
+
+---
+
+## 🚀 About Me
+
+I'm a **B.Tech 2025 graduate** from Sister Nivedita University and a Software Engineer at **Microsoft**, driven by one goal — writing code that ships to millions and *matters*.
+
+I don't just grind LeetCode problems; I build things with the same algorithms. From publishing research in **IEEE** to winning the **Microsoft Aspirathon** and placing **2nd Runner-Up at the Microsoft Global Hackathon**, I thrive at the intersection of competitive problem-solving and real-world engineering.
+
+Currently targeting my next big move into a **MAANG engineering role** where I can scale my impact further.
+
+---
+
+## 💻 Tech Stack
+
+| Domain | Tools & Languages |
+|---|---|
+| Languages | Java · C++ · Dart |
+| Mobile / Frontend | Flutter |
+| Backend / Cloud | Firebase |
+| Hardware | Arduino Uno |
+| Platforms | Microsoft Azure · GitHub |
+
+---
+
+## 📊 LeetCode Stats
+
+| Metric | Value |
+|---|---|
+| ✅ Problems Solved | **700+** |
+| 🔥 Primary Language | Java / C++ |
+| 🎯 Focus Areas | Data Structures · Algorithms · System Design |
+
+> *700+ problems isn't just a number — it's consistency, curiosity, and a refusal to quit.*
+
+---
+
+## 🏗️ Featured Projects
+
+### 🚗 Parkcle — Smart Parking Solution
+> **Flutter · Firebase**
+
+A real-world solution to urban parking chaos. Parkcle uses real-time data to help users locate, book, and navigate to parking spots seamlessly.
+- 📄 **Published in a peer-reviewed journal**
+- Built end-to-end: UI, backend, and real-time database integration
+
+---
+
+### 😴 Drowsiness Detector for Cars
+> **Flutter · Firebase · Arduino Uno**
+
+A life-saving IoT + mobile system that detects driver drowsiness in real time and triggers alerts to prevent road accidents.
+- 📄 **Published in IEEE**
+- Bridged hardware (Arduino Uno) with software (Flutter + Firebase) seamlessly
+
+---
+
+### 🛡️ EVigil
+> **Electric Vehicle Safety & Monitoring System**
+
+An intelligent monitoring solution designed for the EV ecosystem — keeping vehicles safer and smarter.
+
+---
+
+## 🏆 Achievements & Recognition
+
+| 🥇 Achievement | Details |
+|---|---|
+| 🏆 Winner | Microsoft Aspirathon |
+| 🥉 2nd Runner-Up | Microsoft Global Hackathon |
+| 📄 IEEE Publication | Drowsiness Detection System |
+| 📰 Journal Publication | Parkcle — Smart Parking |
+| 💼 Current Role | Software Engineer @ Microsoft |
+
+---
+
+## 🌐 Let's Connect
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [ankana-chakraborty](https://www.linkedin.com/in/ankana-chakraborty-9317bb227/) |
+| 🐙 GitHub | [AnkanaC](https://github.com/AnkanaC) |
+
+---
+
+## 💬 My Philosophy
+
+> *"The best engineers aren't the ones who know every answer — they're the ones who've failed, debugged, and come back stronger. Every problem on here is a rep. Keep grinding."*
+
+---
+
+*Open to exciting **SDE / Full-Stack / Mobile Engineering** roles at top-tier companies. Let's build something great together.*
 
